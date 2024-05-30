@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarupgund" alt="swarupgund" /></a> </p>
 
-- 🔭 I’m currently working on **Khata App**
+- 🔭 I’m currently working on **V-Care Application**
 
 - 🌱 I’m currently learning **Spring,SpringBooot,hibernate**
 
